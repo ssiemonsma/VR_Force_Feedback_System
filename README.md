@@ -1,9 +1,12 @@
 # VR_Force_Feedback_System
-This is meant to complement a custom-built  VR force feedback system.  The wearable device can resist outward arm movements in order to increase safety and interactivity of virtual reality systems.  This project was originally targeted at the Oculus Rift, but a port to the Oculus Quest 2 is currently being explored.  This project was originally designed and developed in 2018-2019 as part of an ECE Senior Design project at the University of Iowa, where it won the the Best ECE Senior Design Award.  This is an open project that is free to be used and built upon by others.
+This set of software is meant to complement a custom-built  VR force feedback system.  The wearable device designed and built for this project can resist outward arm movements in order to increase safety and interactivity of virtual reality systems.  This project was originally targeted at the Oculus Rift, but a port to the Oculus Quest 2 is currently being explored.  This project was originally completed in the 2018-2019 school year as part of an ECE Senior Design project at the University of Iowa, where it won the the Best ECE Senior Design Award.  This is an open project that is free to be used and built upon by others.
 
-The original team members were Stephen Siemonsma, Sam Hisel, Kevin Mattes, and George Drivas.  Our faculty project sponsor was Prof. Tyler Bell.  The project is currently being maintaind by Stephen Siemonsma.
+The original team members were Stephen Siemonsma, Sam Hisel, Kevin Mattes, and George Drivas.  Our faculty project sponsor was Prof. Tyler Bell.
 
-The poster in the root folder of this project gives a good summary of the capabilities of the hardware and software system, including photos and diagrams.  Some live video demonstrations can be found in the PowerPoint presentation.  Please refer to the documentation folder for specifics on this project.  Any inquiries can be directed at stephensiemonsma@gmail.com.
+The poster in the root folder of this project gives a good summary of the capabilities of the hardware and software systems, including photos and diagrams.  Some live video demonstrations can be found in the PowerPoint presentation.  Please refer to the documentation folder for more specific details and elaborations.
+
+This project is currently being maintaind by Stephen Siemonsma.  Any inquiries can be directed at stephensiemonsma@gmail.com.
+
 
 
 Project Summary:
