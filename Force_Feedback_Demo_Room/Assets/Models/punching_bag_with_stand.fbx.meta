@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 2d3ed0471c58c8840a9bd1614d0ab167
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bag_stand
+    100002: cadnav.com
+    100004: Camera
+    100006: chains_and_bolts
+    100008: heavy_bag
+    100010: Lamp
+    100012: metal_plates
+    100014: //RootNode
+    100016: spring
+    100018: stand_feet
+    100020: stitching
+    400000: bag_stand
+    400002: cadnav.com
+    400004: Camera
+    400006: chains_and_bolts
+    400008: heavy_bag
+    400010: Lamp
+    400012: metal_plates
+    400014: //RootNode
+    400016: spring
+    400018: stand_feet
+    400020: stitching
+    2000000: Camera
+    2100000: No Name
+    2300000: bag_stand
+    2300002: chains_and_bolts
+    2300004: heavy_bag
+    2300006: metal_plates
+    2300008: spring
+    2300010: stand_feet
+    2300012: stitching
+    3300000: bag_stand
+    3300002: chains_and_bolts
+    3300004: heavy_bag
+    3300006: metal_plates
+    3300008: spring
+    3300010: stand_feet
+    3300012: stitching
+    4300000: stand_feet
+    4300002: chains_and_bolts
+    4300004: metal_plates
+    4300006: stitching
+    4300008: heavy_bag
+    4300010: spring
+    4300012: bag_stand
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
