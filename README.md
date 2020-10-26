@@ -3,7 +3,7 @@ This set of software is meant to complement a custom-built  VR force feedback sy
 
 The original team members were Stephen Siemonsma, Sam Hisel, Kevin Mattes, and George Drivas.  Our faculty project sponsor was Prof. Tyler Bell.
 
-The poster in the root folder of this project gives a good summary of the capabilities of the hardware and software systems, including photos and diagrams.  Some live video demonstrations can be found in the PowerPoint presentation.  Please refer to the documentation folder for more specific details and elaborations.
+The poster in the root folder of this project gives a good summary of the capabilities of the hardware and software systems, including photos and diagrams.  Some live video demonstrations can be found in the [PowerPoint presentation](https://1drv.ms/u/s!AlEtnoKatXJlg4M3LXpUBuWH3MzJfw?e=z5F8Ii).  Note that the PowerPoint presentation contains several videos, which make the file quite large, so please download the presentation for smooth video playback.  Refer to the documentation folder for more specific details and elaborations on the project.
 
 This project is currently being maintaind by Stephen Siemonsma.  Any inquiries can be directed at stephensiemonsma@gmail.com.
 
