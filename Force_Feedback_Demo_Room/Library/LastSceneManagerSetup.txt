@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Force_Feedback_Room.unity
+  isLoaded: 1
+  isActive: 1
